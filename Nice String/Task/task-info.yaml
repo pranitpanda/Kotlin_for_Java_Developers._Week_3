@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: src/nicestring/NiceString.kt
+    visible: true
+    placeholders:
+      - offset: 52
+        length: 518
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 55
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: test/nicestring/TestNiceString.kt
+    visible: true
+    learner_created: false
+  - name: partId
+    visible: false
+    learner_created: false
+  - name: assignmentKey
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/hlugM/nice-string/discussions
+status: Unchecked
+record: -1
